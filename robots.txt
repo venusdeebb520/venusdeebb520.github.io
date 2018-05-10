@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: /favcon.ico
+
+Sitemap:http://http:Venusdeebb520.github.io/sitemap.xml
